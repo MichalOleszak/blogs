@@ -1,0 +1,10 @@
+llama-index
+llama-index-embeddings-huggingface
+sentence-transformers
+beir
+faiss-cpu
+tqdm
+pandas
+openai
+deepchecks-llm-client
+numpy<2
